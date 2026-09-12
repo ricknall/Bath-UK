@@ -11,8 +11,7 @@ site_name = "Bath — Notes for Your Visit"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Get started" = "index.md" },
-  { "Markdown in 5min" = "markdown.md" },
+  { "Bath" = "index.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
