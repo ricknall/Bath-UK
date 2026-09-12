@@ -1,6 +1,10 @@
 
+---
+hide:
+  - navigation
+---
 
-# Bath 
+# Bath# Bath 
 ![](https://images.virginexperiencedays.co.uk/images/product/main/visit-to-roman-baths-12113740.jpg?auto=compress%2Cformat&w=414&q=80&fit=max)
 
 
@@ -17,7 +21,7 @@ The city is also home to the University of Bath,
 which is consistently ranked among the top universities 
 in the UK. I won't waste your time pointing out the Roman Baths as you doubtless know about them.
 
- * [Explore Bath Abby](https://www.bathabbey.org/visiting/tours/)
+ * [Explore Bath Abbey](https://www.bathabbey.org/visiting/tours/)
  The Abbey is a cornerstone of the city’s culture, thanks to its iconic fan-vaulted ceiling.
  ![Bath Abbey](https://images.prismic.io/virginexperiencedays/343c8de0-62eb-4276-8237-66da2ee088d5_Bath+Abbey.jpg?auto=compress%2Cformat&w=4000&q=80&fit=max)
 
