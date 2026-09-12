@@ -7,7 +7,7 @@
 
 
 Julie, <br>
-I discovered a new tool to build these staic websites, so I thought I'd try it out
+I discovered a new tool to build these static websites, so I thought I'd try it out
 with a some brief information on Bath. I believe you
  said you were going to spend a few days in there, so I 
  thought I'd give you some information on the city. 
@@ -21,7 +21,7 @@ in the UK. I won't waste your time pointing out the Roman Baths as you doubtless
  The Abbey is a cornerstone of the city’s culture, thanks to its iconic fan-vaulted ceiling.
  ![Bath Abbey](https://images.prismic.io/virginexperiencedays/343c8de0-62eb-4276-8237-66da2ee088d5_Bath+Abbey.jpg?auto=compress%2Cformat&w=4000&q=80&fit=max)
 
- * [Afternoon Tea at the Royal Crescent Hotel & Spa](https://www.virginexperiencedays.co.uk/product/cheese-tour-and-tasting-with-lunch-at-bath-soft-cheese)
+ * [Afternoon Tea at the Royal Crescent Hotel & Spa](https://www.royalcrescent.co.uk/eat-drink/afternoon-tea/)
  ![](https://images.virginexperiencedays.co.uk/images/product/main/afternoon-tea-for-two-21154414.jpg?auto=compress%2Cformat&w=414&q=80&fit=max)
 
  * [If you love Cheese](https://www.virginexperiencedays.co.uk/product/cheese-tour-and-tasting-with-lunch-at-bath-soft-cheese), Bath Soft Cheese Co offers exclusive tours of their cheese-making rooms, milking 
