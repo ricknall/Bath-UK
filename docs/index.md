@@ -1,14 +1,13 @@
-
 ---
 hide:
   - navigation
 ---
 
-# Bath# Bath 
-![](https://images.virginexperiencedays.co.uk/images/product/main/visit-to-roman-baths-12113740.jpg?auto=compress%2Cformat&w=414&q=80&fit=max)
+# Bath
 
+![Roman Baths](https://images.virginexperiencedays.co.uk/images/product/main/visit-to-roman-baths-12113740.jpg?auto=compress%2Cformat&w=414&q=80&fit=max)
 
-
+Julie,
 
 Julie, <br>
 I discovered a new tool to build these static websites, so I thought I'd try it out
